@@ -1,0 +1,36 @@
+body{
+
+    background-image: url("boris-baldinger-1127268-unsplash.jpg/");
+    font-family: "Lucida Sans";
+}
+
+nav ul{
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li{
+    display: inline;
+}
+
+
+
+h1{
+    text-align: center;
+}
+
+main{
+    max-width: 600px;
+margin: auto;
+}
+
+
+
+aside ul li{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
+
